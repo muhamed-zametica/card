@@ -1,0 +1,32 @@
+.card {
+    width: 300px;
+    margin: 10px auto;
+    text-align: center;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+}
+
+.card img {
+    width: 100%;
+}
+
+.card button {
+    width: 100%;
+    padding: 15px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    border: none;
+    outline: none;
+
+}
+
+.card button:hover {
+    background-color: rgba(0, 0, 0, 0.75);
+    cursor: pointer;
+}
+
+#cijena {
+    font-size: 20px;
+    color: silver;
+
+}
